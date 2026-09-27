@@ -2,3 +2,5 @@
 
 ## Week 2 Practice
 This week I learned all about Git basics and version control.
+
+- I have completed my first commit.
